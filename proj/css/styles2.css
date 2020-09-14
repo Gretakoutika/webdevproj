@@ -68,9 +68,8 @@ input#password.validate:hover{
 	position: absolute;
 	color:#26a69a;
 	font-style: bold;
-	top:90%;
+	top:80%;
 	left:55%;
-	margin-bottom: 0px;
 	font-family: 'Source Sans Pro', sans-serif;
 	
 }
