@@ -1,0 +1,81 @@
+.container{
+	border: 5px solid #26a69a;
+    box-sizing: border-box;
+    color: white;
+    background-color:#26a69a; 
+    font-family: 'Source Sans Pro', sans-serif;
+    box-sizing: border-box;
+    }
+
+body{
+	padding: 7% 20% 0% 20%;
+	background-image:url('maxresdefault.jpg');
+	background-size: cover;
+}
+input[type=text], 
+    input[type=password] { 
+        
+        left: 40%;
+        width: 100%; 
+        padding: 12px 20px; 
+        margin: 8px 0; 
+        display: inline-block; 
+        border: 1px solid #ccc; 
+        
+    } 
+#log{
+	margin:10px;
+	text-align: center;
+}
+#log:hover{
+	text-shadow: 2px 2px grey;
+}
+input#mail-id.validate{
+	border-bottom: solid #26a69a;
+	color:white;
+}
+input#mail-id.validate:hover{
+	border-bottom: solid white;
+}
+input#password.validate{
+	border-bottom: solid #26a69a;
+	color:white;
+}
+input#password.validate:hover{
+	border-bottom: solid white;
+}
+#logbtn{
+
+	position:relative;
+    transition: .5s ease;
+    top: 0px;
+    left: 40px;
+    right: -420px;
+    bottom: -191px;
+    font-family: 'Source Sans Pro', sans-serif;
+	color:#26a69a;
+	font-style: bold;
+	background-color:white;
+	
+}
+#logbtn:hover{
+	color:white;
+	background-color: #26a69a;
+}
+
+#signbtn{
+	background-color:white;
+	position: absolute;
+	color:#26a69a;
+	font-style: bold;
+	top:90%;
+	left:55%;
+	margin-bottom: 0px;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+#signbtn:hover{
+	color:white;
+	background-color: #26a69a;
+
+}
