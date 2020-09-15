@@ -65,12 +65,11 @@ input#password.validate:hover{
 
 #signbtn{
 	background-color:white;
-	position: absolute;
+	position: relative;
 	color:#26a69a;
 	font-style: bold;
-	top:70%;
-	left:55%;
-	margin-bottom:20%;
+	margin-bottom: 0px;
+	margin-top: 60%;
 	font-family: 'Source Sans Pro', sans-serif;
 	
 }
