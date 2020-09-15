@@ -67,15 +67,63 @@ input#password.validate:hover{
 
 #signbtn{
 	background-color:white;
-	position: absolute;
+	position: relative;
 	color:#26a69a;
 	font-style: bold;
+	margin-top: -50px;
+	margin-left: -110px;
 
 	font-family: 'Source Sans Pro', sans-serif;
-	left:55%; 
+	left:90%; 
 	
 }
 #signbtn:hover{
 	color:white;
 	background-color: #26a69a;
+}
+/*media queires*/
+/*for small devices*/
+@media(max-width: 433px)
+{
+	#log{
+	margin:10px;
+	text-align: center;
+	font-size: 250%;
+}
+#log:hover{
+	text-shadow: 2px 2px grey;
+}
+	#logbtn{
+
+	position:relative;
+    transition: .5s ease;
+   margin-top: -60px;
+   left:40%;
+    font-family: 'Source Sans Pro', sans-serif;
+	color:#26a69a;
+	font-style: bold;
+	background-color:white;
+	
+}
+#logbtn:hover{
+	color:white;
+	background-color: #26a69a;
+}
+	#signbtn{
+	background-color:white;
+	position: relative;
+	color:#26a69a;
+	font-style: bold;
+	margin-top: 60px;
+	margin-top: -50px;
+	margin-left: -110px;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+	left:90%; 
+	
+}
+#signbtn:hover{
+	color:white;
+	background-color: #26a69a;
+}
 }
