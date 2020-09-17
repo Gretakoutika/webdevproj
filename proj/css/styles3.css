@@ -9,9 +9,8 @@ input#search.input-field:hover{
 	border-bottom: 2px solid white;
 	color: white;
 }
-
 input#search.input-field{
-
+	
 	color: white;
 	
 }
@@ -143,7 +142,3 @@ div.card-image{
 	left:-10px;
 	max-width: 30%;
 }
-
-
-
-
