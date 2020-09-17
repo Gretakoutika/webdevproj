@@ -9,11 +9,7 @@ input#search.input-field:hover{
 	border-bottom: 2px solid white;
 	color: white;
 }
-#iconsearch{
-	position: relative;
-	left:-500px;
 
-}
 input#search.input-field{
 
 	color: white;
