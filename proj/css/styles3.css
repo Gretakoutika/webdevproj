@@ -15,10 +15,9 @@ input#search.input-field:hover{
 
 }
 input#search.input-field{
-	position: relative;
-	left:-500px;
+
 	color: white;
-	width: 300%;
+	
 }
 #dropdown1 a:hover{
 	background-color: #26a69a;
