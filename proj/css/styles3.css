@@ -1,0 +1,154 @@
+h4{
+	color: #26a69a;
+}
+div.nav-wrapper{
+	background-color: #26a69a;
+	margin:0px;
+}
+input#search.input-field:hover{
+	border-bottom: 2px solid white;
+	color: white;
+}
+#iconsearch{
+	position: relative;
+	left:-500px;
+
+}
+input#search.input-field{
+	position: relative;
+	left:-500px;
+	color: white;
+	width: 300%;
+}
+#dropdown1 a:hover{
+	background-color: #26a69a;
+	color: white;
+}
+hr.rounded {
+  border-top: 5px solid #26a69a;
+  border-radius: 5px;
+}
+.card .card-image img{
+	max-width: 20%;
+	margin-left: 150px;
+
+}
+div.card:hover{
+	background-color:#26a69a;
+	color:white;  
+}
+div.card-image{
+	position: relative;
+	top:20px;
+	height: 250px;
+	margin-top: 10px;
+
+}
+#two{
+	position: relative;
+	top:50px;
+}
+#four{
+	position: relative;
+	top:0px;
+	left:-70px;
+	max-width: 60%;
+
+}
+#five{
+	position: relative;
+	top:-20px;
+	left:-70px;
+	max-width: 60%;
+
+
+}
+#six{
+	position: relative;
+	top:10px;
+	left:0px;
+	max-width:30%;
+}
+#eight{
+	position: relative;
+	top:20px;
+	left:-70px;
+	max-width: 60%;
+
+}
+#nine{
+	position: relative;
+	top:-10px;
+	left:-10px;
+	max-width:30%;
+}
+#ten{
+	position: relative;
+	top:-20px;
+	left:0px;
+	max-width: 30%;
+}
+#Eleven{
+	position: relative;
+	top:30px;
+	left:-30px;
+	max-width: 60%;
+}
+#Twelve{
+	position: relative;
+	top:10px;
+	left:-30px;
+	max-width: 50%;
+}
+#thirteen{
+	position: relative;
+	top:10px;
+	left:-40px;
+	max-width: 50%;
+}
+#fourteen{
+	position: relative;
+	top:10px;
+	left:-40px;
+	max-width: 50%;
+}
+#fifteen{
+	position: relative;
+	top:10px;
+	left:-80px;
+	max-width: 70%;
+}
+#sixteen{
+	position: relative;
+	top:10px;
+	left:-40px;
+	max-width: 50%;
+}
+#seventeen{
+	position: relative;
+	top:70px;
+	left:-70px;
+	max-width: 60%;
+}
+#eighteen{
+	position: relative;
+	top:-10px;
+	left:-30px;
+	max-width: 40%;
+}
+#nineteen{
+	position: relative;
+	top:10px;
+	left:-50px;
+	max-width: 50%;
+}
+#twenty{
+	position: relative;
+	top:0px;
+	left:-10px;
+	max-width: 30%;
+}
+
+
+
+
