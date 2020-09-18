@@ -5,6 +5,7 @@ div.nav-wrapper{
 	background-color: #26a69a;
 	margin:0px;
 }
+
 input#search.input-field:hover{
 	border-bottom: 2px solid white;
 	color: white;
@@ -35,6 +36,14 @@ div.card-image{
 	height: 250px;
 	margin-top: 10px;
 
+}
+div.carousel .carousel-item>img {
+    width: 50%;
+}
+#btn1
+{
+	position: relative;
+	left:80%;
 }
 #two{
 	position: relative;
